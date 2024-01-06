@@ -1,0 +1,31 @@
+{
+  "name": "generator-wyf0209-vue",
+  "version": "1.0.0",
+  "description": "vue3+ts+pinia+router+axios 模板生成",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangxiaogeng/generator-wyf0209-vue.git"
+  },
+  "keywords": [
+    "wyf",
+    "generator",
+    "yeoman",
+    "vue",
+    "yeoman-generator"
+  ],
+  "author": "wyf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangxiaogeng/generator-wyf0209-vue/issues"
+  },
+  "homepage": "https://github.com/wangxiaogeng/generator-wyf0209-vue#readme",
+  "dependencies": {
+    "glob": "^10.3.10",
+    "yeoman-generator": "^7.1.1"
+  }
+}
