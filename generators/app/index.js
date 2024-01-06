@@ -24,10 +24,8 @@ export default class extends Generagor {
             this.fs.copyTpl(
                 this.templatePath(item),
                 this.destinationPath(item),
-                {
-                    title: this.answers
-                }
-            )
+                this.answers
+             )
 
         })
 
