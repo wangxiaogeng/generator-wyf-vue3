@@ -1,11 +1,13 @@
 {
-  "name": "generator-wyf0209-vue",
-  "version": "1.0.0",
+  "name": "generator-wyf-vue3",
+  "version": "1.1.0",
   "description": "vue3+ts+pinia+router+axios 模板生成",
   "type": "module",
   "main": "index.js",
+  "install":"npm i -g generator-wyf-vue3",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "npm publish --registry https://registry.npmjs.org/"
   },
   "repository": {
     "type": "git",
